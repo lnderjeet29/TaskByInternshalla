@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "81870000695",
+    "project_id": "pnote-c1702",
+    "storage_bucket": "pnote-c1702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81870000695:android:078835ce901fd7ca4225b2",
+        "android_client_info": {
+          "package_name": "com.inderjeet.notynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81870000695-iu62e23m2jb3ilrgq5edj0n3g3p603av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inderjeet.notynote",
+            "certificate_hash": "4eba26650401a6c4d1868724c9b834be689a1280"
+          }
+        },
+        {
+          "client_id": "81870000695-acvh044i2nclgrr0p17ogtt28vu4rmst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6z5cek-s5fbES10rJV02myC6B8J3Lrds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81870000695-acvh044i2nclgrr0p17ogtt28vu4rmst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

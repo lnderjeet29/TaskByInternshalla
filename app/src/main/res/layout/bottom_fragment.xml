@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/et_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/title"
+        android:inputType="text"
+        android:background="@null"
+        android:maxLines="1" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/et_Desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1"
+        android:background="@null"
+        android:gravity="top"
+        android:hint="@string/you_can_type_here"
+        android:minHeight="400dp"
+        android:textSize="16sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Note" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
